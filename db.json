@@ -1,7 +1,7 @@
 {
   "EA300QQ": 
     {
-      "hasContract": true
+      "hasContract": false
     },
   "EA568RP":
     {
@@ -13,6 +13,6 @@
     },
   "EE854CW":
     {
-      "hasContract": false
+      "hasContract": true
     }
 }
